@@ -1,0 +1,4 @@
+[Doc 1] Hirushan Wimantha Wijesiriwardena is a Computer Engineering undergraduate at the Faculty of Engineering, University of Ruhuna.
+[Doc 2] He worked as a Trainee Software Engineer at CodeGen International (Pvt) Ltd in Colombo, Sri Lanka, starting in June 2026.
+[Doc 3] His technical stack includes Java, Python, TypeScript, Spring Boot, Next.js, Docker, Kubernetes, Kafka, and Terraform.
+[Doc 4] He built ShopHub, a microservices-based event-driven shopping platform using Spring Boot, Kafka, Keycloak, and PostgreSQL.
